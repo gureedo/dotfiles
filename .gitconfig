@@ -1,0 +1,5 @@
+[user]
+	name = Aleksey Katargin
+	signingkey = E55E9618
+[push]
+	default = simple
