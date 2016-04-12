@@ -3,3 +3,5 @@
 	signingkey = E55E9618
 [push]
 	default = simple
+[commit]
+	gpgsign = true
