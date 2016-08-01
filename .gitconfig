@@ -5,3 +5,14 @@
 	default = simple
 [commit]
 	gpgsign = true
+[color]
+	ui = auto
+[sendemail]
+	suppressfrom = true
+	chainreplyto = false
+	confirm = always
+	envelopesender = auto
+	smtpserver = smtp.gmail.com
+	smtpuser = gureedo
+	smtpserverport = 587
+	smtpencryption = tls
